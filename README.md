@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umakant Dwivedi.
-- 👀 I’m interested in Full Stack Development.
-- 💞️ I’m looking to collaborate on Full Stack Development projects.
+- 👀 I’m interested in Product Management.
+- 💞️ I’m looking to collaborate on Prduct management ideas.
 - 📫 How to reach me dwivediumakant6@gmail.com
 
 <!---
