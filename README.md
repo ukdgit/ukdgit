@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umakant Dwivedi.
 - 👀 I’m interested in Product Management.
-- 💞️ I’m looking to collaborate on Prduct management ideas.
+- 💞️ I’m looking to collaborate on Prduct Management ideas & tactics.
 - 📫 How to reach me dwivediumakant6@gmail.com
 
 <!---
